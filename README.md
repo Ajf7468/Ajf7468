@@ -44,6 +44,6 @@ I currently associate with Infrastructure, but studied as a a programmer in scho
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ## Contact Me ##
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -> [Andrew Fedin](https://www.linkedin.com/in/andrew-fedin-9b478115/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white):[Andrew Fedin](https://www.linkedin.com/in/andrew-fedin-9b478115/)
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -> [Andrew Fedin Github Profile](https://github.com/Ajf7468/Ajf7468)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white):[Andrew Fedin Github Profile](https://github.com/Ajf7468/Ajf7468)
